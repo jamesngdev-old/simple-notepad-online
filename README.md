@@ -9,5 +9,6 @@ Start app: `npm start`
 Start dev: `npm dev`
 
 ## Screenshots
+![Simple Notepad Online - James Nguyen Dev](https://raw.githubusercontent.com/JamesNgDev/simple-notepad-online/main/screenshots/main.png)
 
 ## Enjoy!
